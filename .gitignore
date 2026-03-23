@@ -1,0 +1,51 @@
+# ── Secrets (NEVER commit) ────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Python ────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Runtime data ──────────────────────────────────────────────
+data/
+logs/
+*.log
+
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# ── Static build (generated from frontend) ───────────────────
+static/assets/
+static/index.html
+static/vite.svg
+
+# ── IDE / OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+# ── Vector DB (regenerated from KB) ──────────────────────────
+data/chroma_db/
+
+# ── Test / Coverage ──────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
