@@ -1,0 +1,55 @@
+version: "3.9"
+
+services:
+  # ── Main Agent API ─────────────────────────────────────────
+  agent:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: trango_agent
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - CHROMA_PERSIST_DIR=/app/data/chroma_db
+      - LEADS_FILE_PATH=/app/data/leads.xlsx
+      - KB_FILE_PATH=/app/kb/knowledge_base.xlsx
+      # Override to use Qdrant when running with compose:
+      # - VECTOR_STORE=qdrant
+      # - QDRANT_URL=http://qdrant:6333
+    volumes:
+      - ./data:/app/data
+      - ./kb:/app/kb
+      - ./logs:/app/logs
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ── Qdrant Vector DB (production-grade alternative to Chroma) ──
+  qdrant:
+    image: qdrant/qdrant:v1.12.4
+    container_name: trango_qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    environment:
+      - QDRANT__SERVICE__HTTP_PORT=6333
+      - QDRANT__SERVICE__GRPC_PORT=6334
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/healthz"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  qdrant_storage:

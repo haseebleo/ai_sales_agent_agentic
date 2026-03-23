@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 list)",
+      "Bash(curl -s http://localhost:11434/api/tags)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(pip3 install fastapi uvicorn pydantic pydantic-settings python-multipart httpx openai anthropic python-dotenv tenacity aiofiles ujson openpyxl pandas xlrd numpy)",
+      "Bash(python3 -m venv .venv)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install fastapi \"uvicorn[standard]\" pydantic pydantic-settings python-multipart httpx openai anthropic python-dotenv tenacity aiofiles ujson openpyxl pandas xlrd numpy pytest pytest-asyncio pytest-mock)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install chromadb)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install qdrant-client)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install deepgram-sdk elevenlabs assemblyai)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install webrtcvad)",
+      "Bash(/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/bin/pip install sounddevice)",
+      "Bash(.venv/bin/python -c \"from app.core.config import settings; print\\(''Config OK:'', settings.LLM_PROVIDER\\)\")",
+      "Bash(.venv/bin/python -c \"from app.rag.vector_store import get_vector_store; print\\(''Testing VectorStore...''\\)\")",
+      "Bash(.venv/bin/python -c \":*)",
+      "Bash(.venv/bin/python -c \"from app.api.routes import app; print\\(''Import OK''\\)\")",
+      "Bash(pkill -f \"python main.py\")",
+      "Bash(pgrep -fl \"python.*main.py\")",
+      "Bash(kill 78113)",
+      "Bash(curl -s http://localhost:8000/health)",
+      "Bash(python3 -c \"import json,sys; models=json.load\\(sys.stdin\\).get\\(''models'',[]\\); [print\\(m[''name'']\\) for m in models]\")",
+      "Bash(python3 -c \":*)",
+      "Bash(lsof -i :8000)",
+      "Bash(xargs kill -9)",
+      "Bash(lsof -ti :8000)",
+      "Bash(python3 -m json.tool)",
+      "Bash(curl -s -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d '{\"\"message\"\": \"\"Hello, I need a website built for my business\"\"}')",
+      "Bash(pkill -f \"trango_ai_agent\" pkill -f \"python main.py\" lsof -ti :8000)",
+      "Bash(xargs kill -9 sleep 2 echo \"All cleared\")"
+    ]
+  }
+}

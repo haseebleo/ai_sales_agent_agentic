@@ -1,0 +1,80 @@
+# ============================================================
+# Trango Tech AI Sales Agent — Environment Configuration
+# Copy this file to .env and fill in your values
+# ============================================================
+
+# ── Provider Selection ────────────────────────────────────────
+# LLM: openai | anthropic | ollama
+LLM_PROVIDER=ollama
+
+# STT: deepgram | openai_whisper | assemblyai
+STT_PROVIDER=deepgram
+
+# TTS: elevenlabs | openai_tts | deepgram_tts
+TTS_PROVIDER=elevenlabs
+
+# Vector store: chroma | qdrant
+VECTOR_STORE=chroma
+
+# ── OpenAI ───────────────────────────────────────────────────
+OPENAI_API_KEY=sk-...
+OPENAI_MODEL=gpt-4o
+OPENAI_EMBEDDING_MODEL=text-embedding-3-small
+OPENAI_TTS_VOICE=nova
+
+# ── Anthropic ────────────────────────────────────────────────
+ANTHROPIC_API_KEY=sk-ant-...
+ANTHROPIC_MODEL=claude-opus-4-5
+
+# ── Ollama (self-hosted) ─────────────────────────────────────
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=llama3.1:8b
+
+# ── Deepgram ─────────────────────────────────────────────────
+DEEPGRAM_API_KEY=...
+DEEPGRAM_STT_MODEL=nova-2
+DEEPGRAM_TTS_MODEL=aura-asteria-en
+
+# ── ElevenLabs ───────────────────────────────────────────────
+ELEVENLABS_API_KEY=...
+# Bella (warm, professional female): EXAVITQu4vr4xnSDxMaL
+# Adam (professional male):          pNInz6obpgDQGcFmaJgB
+ELEVENLABS_VOICE_ID=EXAVITQu4vr4xnSDxMaL
+ELEVENLABS_MODEL_ID=eleven_turbo_v2_5
+
+# ── AssemblyAI ───────────────────────────────────────────────
+ASSEMBLYAI_API_KEY=...
+
+# ── Vector Store: Chroma ─────────────────────────────────────
+CHROMA_PERSIST_DIR=./data/chroma_db
+CHROMA_COLLECTION=trango_knowledge
+
+# ── Vector Store: Qdrant ─────────────────────────────────────
+QDRANT_URL=http://localhost:6333
+QDRANT_API_KEY=
+QDRANT_COLLECTION=trango_knowledge
+
+# ── RAG ──────────────────────────────────────────────────────
+RAG_TOP_K=5
+RAG_SCORE_THRESHOLD=0.35
+KB_FILE_PATH=./kb/knowledge_base.xlsx
+
+# ── Lead Output ───────────────────────────────────────────────
+LEADS_FILE_PATH=./data/leads.xlsx
+LEAD_SHEET_NAME=LeadData
+
+# ── Session ──────────────────────────────────────────────────
+SESSION_TIMEOUT_SECONDS=1800
+MAX_HISTORY_TURNS=20
+
+# ── Voice ────────────────────────────────────────────────────
+VAD_SILENCE_THRESHOLD_MS=800
+BARGE_IN_ENABLED=true
+AUDIO_SAMPLE_RATE=16000
+
+# ── Server ───────────────────────────────────────────────────
+HOST=0.0.0.0
+PORT=8000
+DEBUG=false
+LOG_LEVEL=INFO
+CORS_ORIGINS=["*"]

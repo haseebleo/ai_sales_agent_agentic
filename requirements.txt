@@ -1,0 +1,44 @@
+# ============================================================
+# Trango Tech AI Sales Agent — Python Dependencies
+# ============================================================
+
+# ── Core Framework ────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.7.0
+python-multipart==0.0.20
+websockets>=12.0
+
+# ── LLM Providers ─────────────────────────────────────────────
+openai>=1.59.7
+anthropic>=0.42.0
+google-generativeai>=0.8.3
+httpx>=0.28.1
+
+# ── STT / TTS Providers ─────────────────────────────────────
+deepgram-sdk>=3.7.0
+cartesia>=1.0.0
+elevenlabs>=1.0.0
+
+# ── Vector Store ──────────────────────────────────────────────
+chromadb>=0.5.23
+qdrant-client>=1.12.2
+
+# ── Knowledge Base / Excel ────────────────────────────────────
+openpyxl>=3.1.5
+pandas>=2.0
+xlrd>=2.0.1
+
+# ── Audio / VAD ───────────────────────────────────────────────
+numpy>=1.24
+
+# ── Utilities ─────────────────────────────────────────────────
+python-dotenv>=1.0.1
+tenacity>=9.0.0
+aiofiles>=24.1.0
+
+# ── Testing ───────────────────────────────────────────────────
+pytest>=8.3.4
+pytest-asyncio>=0.25.1
+pytest-mock>=3.14.0

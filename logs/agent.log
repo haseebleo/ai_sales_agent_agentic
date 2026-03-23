@@ -1,0 +1,1581 @@
+[2026-03-17 22:39:46] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-17 22:39:46] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-17 22:39:46] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-17 22:39:47] INFO     trango_agent.rag.vector_store       Using local ONNX (all-MiniLM-L6-v2) embedding function for ChromaDB
+[2026-03-17 22:39:47] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (0 docs)
+[2026-03-17 22:39:47] INFO     trango_agent.rag.vector_store       ChromaDB collection reset
+[2026-03-17 22:40:13] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-17 22:40:13] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-17 22:40:13] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-17 22:40:14] INFO     trango_agent.rag.vector_store       Using local ONNX (all-MiniLM-L6-v2) embedding function for ChromaDB
+[2026-03-17 22:40:14] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (0 docs)
+[2026-03-17 22:40:14] INFO     trango_agent.rag.vector_store       ChromaDB collection reset
+[2026-03-17 22:55:13] WARNING  trango_agent                        KB auto-index skipped: The read operation timed out in upsert.
+[2026-03-17 22:55:13] INFO     trango_agent                        Agent ready.
+[2026-03-17 22:56:28] WARNING  trango_agent                        KB auto-index skipped: The read operation timed out in upsert.
+[2026-03-17 22:56:28] INFO     trango_agent                        Agent ready.
+[2026-03-17 22:56:28] INFO     trango_agent                        Shutting down.
+[2026-03-17 22:58:02] INFO     trango_agent                        Shutting down.
+[2026-03-18 08:33:34] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:33:34] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-18 08:33:34] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-18 08:33:35] INFO     trango_agent.rag.vector_store       Using local ONNX (all-MiniLM-L6-v2) embedding function for ChromaDB
+[2026-03-18 08:33:35] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (0 docs)
+[2026-03-18 08:33:35] INFO     trango_agent.rag.vector_store       ChromaDB collection reset
+[2026-03-18 08:33:43] WARNING  trango_agent                        KB auto-index skipped: The read operation timed out in upsert.
+[2026-03-18 08:33:43] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:51:37] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:51:37] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-18 08:51:37] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-18 08:51:37] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 08:51:37] WARNING  trango_agent                        KB auto-index skipped: 'OllamaEmbeddingFunction' object has no attribute 'name'
+[2026-03-18 08:51:37] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:51:37] INFO     trango_agent                        Shutting down.
+[2026-03-18 08:52:37] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:52:37] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-18 08:52:37] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-18 08:52:38] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 08:52:38] WARNING  trango_agent                        KB auto-index skipped: 'str' object is not callable
+[2026-03-18 08:52:38] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:53:30] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-18 08:53:30] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-18 08:53:31] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 08:53:48] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260317_134246
+[2026-03-18 08:53:48] INFO     trango_agent.rag.ingestion          Loaded 111 chunks from knowledge_base.xlsx
+[2026-03-18 08:53:48] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 08:53:48] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (0 docs)
+[2026-03-18 08:53:48] INFO     trango_agent.rag.vector_store       ChromaDB collection reset
+[2026-03-18 08:54:38] INFO     trango_agent.rag.vector_store       Upserted 111 chunks into ChromaDB
+[2026-03-18 08:54:38] INFO     trango_agent.rag.indexer            ✓ Ingestion complete — 111 chunks indexed, version=20260317_134246
+[2026-03-18 08:54:48] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:54:48] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260317_134246). Skipping re-index.
+[2026-03-18 08:54:48] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 08:54:48] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:54:48] INFO     trango_agent                        Shutting down.
+[2026-03-18 08:55:38] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:55:38] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260317_134246). Skipping re-index.
+[2026-03-18 08:55:38] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 08:55:38] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:56:14] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 08:56:14] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (111 docs)
+[2026-03-18 08:56:19] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 08:56:19] INFO     trango_agent.sessions               New session: dea0bcee
+[2026-03-18 08:56:24] INFO     trango_agent.sessions               New session: a81a74ce
+[2026-03-18 08:57:27] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 08:57:27] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260317_134246). Skipping re-index.
+[2026-03-18 08:57:27] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 08:57:27] INFO     trango_agent                        Agent ready.
+[2026-03-18 08:57:27] INFO     trango_agent                        Shutting down.
+[2026-03-18 08:57:45] INFO     trango_agent.sessions               New session: defa4446
+[2026-03-18 09:30:38] INFO     trango_agent.sessions               Cleaned up 3 expired sessions
+[2026-03-18 14:12:45] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260318_075456
+[2026-03-18 14:12:48] INFO     trango_agent.rag.ingestion          Loaded 151 chunks from knowledge_base.xlsx
+[2026-03-18 14:12:56] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 14:12:56] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 14:13:44] INFO     trango_agent.rag.indexer            Starting ingestion for KB version 20260318_075456
+[2026-03-18 14:13:44] INFO     trango_agent.rag.ingestion          Loaded 151 chunks from knowledge_base.xlsx
+[2026-03-18 14:13:45] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 14:13:45] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 14:13:45] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 14:13:45] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (0 docs)
+[2026-03-18 14:13:45] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 14:13:45] INFO     trango_agent.rag.vector_store       ChromaDB collection reset
+[2026-03-18 14:14:56] INFO     trango_agent.rag.vector_store       Upserted 151 chunks into ChromaDB
+[2026-03-18 14:14:56] INFO     trango_agent.rag.indexer            ✓ Ingestion complete — 151 chunks indexed, version=20260318_075456
+[2026-03-18 14:16:50] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 14:16:50] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 14:16:50] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 14:16:50] INFO     trango_agent                        Agent ready.
+[2026-03-18 14:16:50] INFO     trango_agent                        Shutting down.
+[2026-03-18 15:08:19] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:08:19] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:08:19] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:08:19] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:17:37] INFO     trango_agent                        Shutting down.
+[2026-03-18 15:17:38] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:17:38] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:17:38] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:17:38] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:32:47] INFO     trango_agent                        Shutting down.
+[2026-03-18 15:32:49] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:32:49] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:32:49] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:32:49] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:35:45] INFO     trango_agent                        Shutting down.
+[2026-03-18 15:35:47] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:35:47] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:35:47] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:35:47] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:36:16] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-jmj4' (session=web-jmj4)
+[2026-03-18 15:36:17] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:36:17] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-jmj4' (session=web-jmj4)
+[2026-03-18 15:36:17] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:36:17] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-jmj4' (session=web-jmj4)
+[2026-03-18 15:36:17] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:36:17] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-jmj4' (session=web-jmj4)
+[2026-03-18 15:36:17] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:36:29] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-8fbu' (session=web-8fbu)
+[2026-03-18 15:36:29] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:40:06] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:40:06] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:40:06] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:40:06] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:40:22] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 15:40:27] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 15:40:27] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 15:40:27] INFO     trango_agent.sessions               New session: test-123
+[2026-03-18 15:40:27] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:40:27] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 15:40:27] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:40:27] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 15:40:35] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:41:23] INFO     trango_agent                        Shutting down.
+[2026-03-18 15:41:48] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 15:41:48] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 15:41:48] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 15:41:48] INFO     trango_agent                        Agent ready.
+[2026-03-18 15:41:56] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-7yyr' (session=web-7yyr)
+[2026-03-18 15:41:56] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:42:04] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 15:42:05] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 15:42:05] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 15:42:05] INFO     trango_agent.sessions               New session: test-456
+[2026-03-18 15:42:05] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:42:05] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 15:42:05] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:42:05] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 15:42:07] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 15:42:07] INFO     trango_agent                        [test-456] State: greeting → discovery
+[2026-03-18 15:42:15] INFO     trango_agent.agent                  [test-456] discovery | score=0.11 | temp=cold
+[2026-03-18 15:42:46] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-voice-te' (session=voice-te)
+[2026-03-18 15:42:46] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:43:55] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-xenw' (session=web-xenw)
+[2026-03-18 15:43:55] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 15:57:37] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-wlnp' (session=web-wlnp)
+[2026-03-18 15:57:37] ERROR    trango_agent.pipecat                Pipecat import failed: No module named 'pipecat.services.deepgram.stt'; 'pipecat.services.deepgram' is not a package. Run: pip install pipecat-ai[livekit,deepgram,cartesia]
+[2026-03-18 16:16:48] INFO     trango_agent.sessions               Cleaned up 1 expired sessions
+[2026-03-18 22:21:05] INFO     trango_agent                        Shutting down.
+[2026-03-18 22:21:15] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:21:15] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:21:15] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:21:15] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:21:34] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-tvv9' (session=web-tvv9)
+[2026-03-18 22:21:35] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 22:21:35] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 22:21:35] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 22:21:35] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-tvv9
+[2026-03-18 22:21:35] ERROR    trango_agent                        LiveKit start error: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 259, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 102, in build_pipecat_pipeline
+    token=_generate_agent_token(room_name),
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 231, in _generate_agent_token
+    .to_jwt()
+     ^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/livekit/api/access_token.py", line 159, in to_jwt
+    (datetime.datetime.utcnow() + self.ttl).utctimetuple()
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+[2026-03-18 22:21:50] INFO     trango_agent.sessions               New session: final-te
+[2026-03-18 22:21:51] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:21:51] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 22:21:51] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:21:51] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 22:21:58] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:21:59] INFO     trango_agent                        [final-te] State: greeting → discovery
+[2026-03-18 22:22:09] INFO     trango_agent.agent                  [final-te] discovery | score=0.11 | temp=cold
+[2026-03-18 22:22:17] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-voice-fi' (session=voice-fi)
+[2026-03-18 22:22:17] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session voice-fi
+[2026-03-18 22:22:17] ERROR    trango_agent                        LiveKit start error: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 259, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 102, in build_pipecat_pipeline
+    token=_generate_agent_token(room_name),
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 231, in _generate_agent_token
+    .to_jwt()
+     ^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/livekit/api/access_token.py", line 159, in to_jwt
+    (datetime.datetime.utcnow() + self.ttl).utctimetuple()
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+[2026-03-18 22:22:30] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-hm4f' (session=web-hm4f)
+[2026-03-18 22:22:30] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-hm4f
+[2026-03-18 22:22:30] ERROR    trango_agent                        LiveKit start error: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 259, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 102, in build_pipecat_pipeline
+    token=_generate_agent_token(room_name),
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 231, in _generate_agent_token
+    .to_jwt()
+     ^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/livekit/api/access_token.py", line 159, in to_jwt
+    (datetime.datetime.utcnow() + self.ttl).utctimetuple()
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+[2026-03-18 22:22:54] INFO     trango_agent                        Shutting down.
+[2026-03-18 22:23:09] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:23:09] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:23:09] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:23:09] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:23:21] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-voice-ve' (session=voice-ve)
+[2026-03-18 22:23:22] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 22:23:22] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 22:23:22] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 22:23:22] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session voice-ve
+[2026-03-18 22:23:22] ERROR    trango_agent                        LiveKit start error: 'dict' object has no attribute 'to_dict'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 260, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 115, in build_pipecat_pipeline
+    stt = DeepgramSTTService(
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/services/deepgram.py", line 140, in __init__
+    merged_options = LiveOptions(**{**default_options.to_dict(), **live_options.to_dict()})
+                                                                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'to_dict'
+[2026-03-18 22:24:23] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-voice-fi' (session=voice-fi)
+[2026-03-18 22:24:23] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session voice-fi
+[2026-03-18 22:24:23] ERROR    trango_agent                        LiveKit start error: 'dict' object has no attribute 'to_dict'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 260, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 115, in build_pipecat_pipeline
+    stt = DeepgramSTTService(
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/services/deepgram.py", line 140, in __init__
+    merged_options = LiveOptions(**{**default_options.to_dict(), **live_options.to_dict()})
+                                                                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'to_dict'
+[2026-03-18 22:25:03] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<FrameProcessor.__input_frame_task_handler() running at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:290> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+[2026-03-18 22:25:03] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<FrameProcessor.__push_frame_task_handler() running at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:321> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+[2026-03-18 22:25:03] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<FrameProcessor.__input_frame_task_handler() done, defined at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:282> wait_for=<Future cancelled>>
+[2026-03-18 22:25:03] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<FrameProcessor.__push_frame_task_handler() done, defined at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:317> wait_for=<Future cancelled>>
+[2026-03-18 22:25:05] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-52xs' (session=web-52xs)
+[2026-03-18 22:25:05] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-52xs
+[2026-03-18 22:25:06] ERROR    trango_agent                        LiveKit start error: 'dict' object has no attribute 'to_dict'
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 636, in livekit_start
+    room_name, session_id = await start_pipecat_agent(session_id=request.session_id)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 260, in start_pipecat_agent
+    task = await build_pipecat_pipeline(session_id=session_id, room_name=room_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/pipecat_pipeline.py", line 115, in build_pipecat_pipeline
+    stt = DeepgramSTTService(
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/services/deepgram.py", line 140, in __init__
+    merged_options = LiveOptions(**{**default_options.to_dict(), **live_options.to_dict()})
+                                                                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'to_dict'
+[2026-03-18 22:25:27] INFO     trango_agent                        Shutting down.
+[2026-03-18 22:25:50] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:25:50] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:25:50] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:25:50] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:26:02] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-voice-fi' (session=voice-fi)
+[2026-03-18 22:26:02] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 22:26:03] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 22:26:03] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 22:26:03] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session voice-fi
+[2026-03-18 22:26:03] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-viut' (session=web-viut)
+[2026-03-18 22:26:03] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-viut
+[2026-03-18 22:26:05] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:26:05] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:26:05] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:26:05] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:26:06] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-18 22:26:06] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-18 22:26:06] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:26:06] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:26:16] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-viut
+[2026-03-18 22:26:16] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-viut' (session=web-viut)
+[2026-03-18 22:26:16] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-viut
+[2026-03-18 22:26:16] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-viut)
+[2026-03-18 22:26:17] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:26:17] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:26:17] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:26:17] INFO     trango_agent.sessions               New session: verify-c
+[2026-03-18 22:26:17] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-52' coro=<FrameProcessor.__push_frame_task_handler() running at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:321> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+[2026-03-18 22:26:18] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:26:18] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 22:26:18] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:26:18] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 22:26:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:26:23] INFO     trango_agent                        [verify-c] State: greeting → discovery
+[2026-03-18 22:26:36] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qov0' (session=web-qov0)
+[2026-03-18 22:26:36] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qov0
+[2026-03-18 22:26:37] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-viut
+[2026-03-18 22:26:37] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-viut)
+[2026-03-18 22:26:37] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:26:37] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:26:38] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:26:40] INFO     trango_agent.agent                  [verify-c] discovery | score=0.05 | temp=cold
+[2026-03-18 22:29:13] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-qov0
+[2026-03-18 22:29:13] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-18 22:29:13] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-qov0)
+[2026-03-18 22:29:14] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-1mdy' (session=web-1mdy)
+[2026-03-18 22:29:14] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-1mdy
+[2026-03-18 22:29:15] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:29:15] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:29:15] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:29:41] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "signal client closed: \"ping timeout\"" UnknownReason Resume
+[2026-03-18 22:29:41] ERROR    livekit                             livekit::rtc_engine:680:livekit::rtc_engine - resuming connection... attempt: 0
+[2026-03-18 22:29:44] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "signal client closed: \"ping timeout\"" UnknownReason Resume
+[2026-03-18 22:29:44] ERROR    livekit                             livekit::rtc_engine:680:livekit::rtc_engine - resuming connection... attempt: 0
+[2026-03-18 22:29:57] ERROR    livekit                             livekit::rtc_engine::rtc_session:393:livekit::rtc_engine::rtc_session - rtc_event is taking too much time: IceCandidate { ice_candidate: IceCandidate { candidate: "candidate:3217015523 1 udp 1686052607 149.40.195.236 49942 typ srflx raddr 192.168.1.157 rport 51682 generation 0 ufrag aQeP network-id 1 network-cost 50" }, target: Publisher }
+[2026-03-18 22:30:02] ERROR    livekit                             livekit_api::signal_client::signal_stream:192:livekit_api::signal_client::signal_stream - unhandled websocket message Err(Io(Os { code: 54, kind: ConnectionReset, message: "Connection reset by peer" }))
+[2026-03-18 22:30:02] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&reconnect=1&sid=PA_8gh5LGVHemwm&access_token=...
+[2026-03-18 22:30:05] ERROR    livekit                             livekit::rtc_engine::rtc_session:569:livekit::rtc_engine::rtc_session - Subscriber pc state failed
+[2026-03-18 22:30:05] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "pc_state failed" UnknownReason Resume
+[2026-03-18 22:30:21] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-1mdy' (session=web-1mdy)
+[2026-03-18 22:30:21] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-1mdy
+[2026-03-18 22:30:31] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:30:31] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:30:41] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:30:50] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-1mdy' (session=web-1mdy)
+[2026-03-18 22:30:50] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-1mdy
+[2026-03-18 22:30:54] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qgf8' (session=web-qgf8)
+[2026-03-18 22:30:54] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qgf8
+[2026-03-18 22:31:00] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:00] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:04] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:04] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:10] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:31:12] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:31:12] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:31:12] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:31:12] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:31:12] INFO     trango_agent                        Shutting down.
+[2026-03-18 22:31:14] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:31:21] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qgf8' (session=web-qgf8)
+[2026-03-18 22:31:21] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qgf8
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qgf8' (session=web-qgf8)
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qgf8
+[2026-03-18 22:31:22] ERROR    asyncio                             Task was destroyed but it is pending!
+task: <Task pending name='Task-209' coro=<FrameProcessor.__push_frame_task_handler() running at /Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/pipecat/processors/frame_processor.py:321> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qgf8' (session=web-qgf8)
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qgf8
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qgf8' (session=web-qgf8)
+[2026-03-18 22:31:22] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qgf8
+[2026-03-18 22:31:31] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:31] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: 
+[2026-03-18 22:31:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:31:41] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:31:42] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:31:42] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:31:42] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:32:30] ERROR    livekit                             livekit::rtc_engine::rtc_session:569:livekit::rtc_engine::rtc_session - Publisher pc state failed
+[2026-03-18 22:32:30] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "pc_state failed" UnknownReason Resume
+[2026-03-18 22:32:30] ERROR    livekit                             livekit::rtc_engine::rtc_session:569:livekit::rtc_engine::rtc_session - Subscriber pc state failed
+[2026-03-18 22:32:30] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "pc_state failed" UnknownReason Resume
+[2026-03-18 22:37:06] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:37:06] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:37:06] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:37:06] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:37:27] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 22:37:28] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 22:37:28] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 22:37:28] INFO     trango_agent.sessions               New session: ui-test-
+[2026-03-18 22:37:28] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:37:28] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 22:37:28] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:37:28] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 22:37:34] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:37:34] INFO     trango_agent                        [ui-test-] State: greeting → discovery
+[2026-03-18 22:37:39] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-ui-test-' (session=ui-test-)
+[2026-03-18 22:37:39] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session ui-test-
+[2026-03-18 22:37:39] INFO     trango_agent.sessions               New session: web-6in0
+[2026-03-18 22:37:41] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:37:41] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:37:41] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-18 22:37:41] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-18 22:37:41] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:37:47] INFO     trango_agent.agent                  [ui-test-] discovery | score=0.00 | temp=cold
+[2026-03-18 22:37:47] INFO     trango_agent                        [web-6in0] State: greeting → discovery
+[2026-03-18 22:37:51] INFO     trango_agent.agent                  [web-6in0] discovery | score=0.00 | temp=cold
+[2026-03-18 22:38:06] INFO     trango_agent.agent                  [web-6in0] discovery | score=0.00 | temp=cold
+[2026-03-18 22:38:36] INFO     trango_agent.agent                  [web-6in0] discovery | score=0.05 | temp=cold
+[2026-03-18 22:40:01] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-26n0' (session=web-26n0)
+[2026-03-18 22:40:01] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-26n0
+[2026-03-18 22:40:02] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:40:02] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:40:02] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:40:21] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-26n0
+[2026-03-18 22:40:22] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-26n0)
+[2026-03-18 22:40:54] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qdzd' (session=web-qdzd)
+[2026-03-18 22:40:54] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qdzd
+[2026-03-18 22:40:55] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:40:55] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:40:56] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:41:01] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-qdzd
+[2026-03-18 22:41:02] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-qdzd)
+[2026-03-18 22:41:15] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-web-qdzd' (session=web-qdzd)
+[2026-03-18 22:41:15] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session web-qdzd
+[2026-03-18 22:41:17] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:41:17] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:41:17] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:42:13] INFO     trango_agent.pipecat                Participant disconnected from room trango-web-qdzd
+[2026-03-18 22:42:13] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=web-qdzd)
+[2026-03-18 22:48:28] INFO     trango_agent.agent                  [web-6in0] discovery | score=0.05 | temp=cold
+[2026-03-18 22:48:47] INFO     trango_agent                        [web-6in0] State: discovery → qualification
+[2026-03-18 22:48:54] INFO     trango_agent.agent                  [web-6in0] qualification | score=0.11 | temp=cold
+[2026-03-18 22:49:37] INFO     trango_agent.agent                  [web-6in0] qualification | score=0.11 | temp=cold
+[2026-03-18 22:51:08] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "signal client closed: \"ping timeout\"" UnknownReason Resume
+[2026-03-18 22:51:08] ERROR    livekit                             livekit::rtc_engine:680:livekit::rtc_engine - resuming connection... attempt: 0
+[2026-03-18 22:51:10] ERROR    livekit                             livekit::rtc_engine::rtc_session:569:livekit::rtc_engine::rtc_session - Publisher pc state failed
+[2026-03-18 22:51:10] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "pc_state failed" UnknownReason Resume
+[2026-03-18 22:51:11] ERROR    livekit                             livekit::rtc_engine::rtc_session:569:livekit::rtc_engine::rtc_session - Subscriber pc state failed
+[2026-03-18 22:51:11] WARNING  livekit                             livekit::rtc_engine:430:livekit::rtc_engine - received session close: "pc_state failed" UnknownReason Resume
+[2026-03-18 22:51:18] ERROR    livekit                             livekit_api::signal_client::signal_stream:192:livekit_api::signal_client::signal_stream - unhandled websocket message Err(Io(Os { code: 54, kind: ConnectionReset, message: "Connection reset by peer" }))
+[2026-03-18 22:51:18] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&reconnect=1&sid=PA_JDkD7V9NPY2M&access_token=...
+[2026-03-18 22:51:22] INFO     livekit                             livekit::rtc_engine:617:livekit::rtc_engine - RtcEngine successfully recovered
+[2026-03-18 22:55:20] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-18 22:55:20] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-18 22:55:20] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-18 22:55:20] INFO     trango_agent                        Agent ready.
+[2026-03-18 22:56:18] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-xi' (session=happy-xi)
+[2026-03-18 22:56:19] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-18 22:56:19] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-18 22:56:19] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-18 22:56:19] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-xi
+[2026-03-18 22:56:24] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:56:24] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:56:24] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-18 22:56:24] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-18 22:56:24] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:57:27] INFO     trango_agent.sessions               New session: happy-xi
+[2026-03-18 22:57:27] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:57:27] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-18 22:57:27] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:57:27] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-18 22:57:35] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-18 22:57:35] INFO     trango_agent                        [happy-xi] State: greeting → discovery
+[2026-03-18 22:57:39] INFO     trango_agent.agent                  [happy-xi] discovery | score=0.00 | temp=cold
+[2026-03-18 22:57:54] INFO     trango_agent.agent                  [happy-xi] discovery | score=0.00 | temp=cold
+[2026-03-18 22:58:08] INFO     trango_agent.agent                  [happy-xi] discovery | score=0.00 | temp=cold
+[2026-03-18 22:58:39] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-xi
+[2026-03-18 22:58:40] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-xi)
+[2026-03-18 22:58:45] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-vh' (session=happy-vh)
+[2026-03-18 22:58:45] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-vh
+[2026-03-18 22:58:49] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-18 22:58:49] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-18 22:58:49] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-18 22:59:54] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-vh
+[2026-03-18 22:59:54] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-18 22:59:54] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-vh)
+[2026-03-18 23:30:20] INFO     trango_agent.sessions               Cleaned up 1 expired sessions
+[2026-03-19 00:44:35] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:44:35] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:44:35] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:44:35] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:49:36] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-s3' (session=happy-s3)
+[2026-03-19 00:49:37] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:49:37] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:49:37] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:49:37] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-s3
+[2026-03-19 00:49:39] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-19 00:49:39] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-19 00:49:40] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 00:49:40] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 00:49:40] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:49:47] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-s3' (session=happy-s3)
+[2026-03-19 00:49:47] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-s3
+[2026-03-19 00:49:48] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-19 00:49:48] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-19 00:49:48] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:49:49] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-s3
+[2026-03-19 00:49:49] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 00:49:49] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-s3)
+[2026-03-19 00:50:09] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:50:09] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:50:09] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:50:09] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:50:16] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-6m' (session=happy-6m)
+[2026-03-19 00:50:17] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:50:17] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:50:17] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:50:17] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-6m
+[2026-03-19 00:50:21] ERROR    deepgram.clients.common.v1.abstract_async_websocket WebSocketException in AbstractAsyncWebSocketClient.start: server rejected WebSocket connection: HTTP 400
+[2026-03-19 00:50:21] ERROR    deepgram.clients.common.v1.abstract_async_websocket AsyncListenWebSocketClient.start failed
+[2026-03-19 00:50:21] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 00:50:21] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 00:50:21] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:52:36] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:52:36] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:52:36] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:52:36] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:53:21] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:53:21] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:53:21] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:53:21] INFO     trango_agent.sessions               New session: happy-rs
+[2026-03-19 00:53:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:53:22] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 00:53:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:53:22] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 00:53:33] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:53:37] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:53:37] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:53:37] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:53:37] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:53:54] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:53:55] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:53:55] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:53:55] INFO     trango_agent.sessions               New session: happy-md
+[2026-03-19 00:53:55] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:53:55] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 00:53:55] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:53:55] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 00:54:01] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 00:54:01] INFO     trango_agent                        [happy-md] State: greeting → discovery
+[2026-03-19 00:54:06] INFO     trango_agent.agent                  [happy-md] discovery | score=0.00 | temp=cold
+[2026-03-19 00:55:34] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-3x' (session=happy-3x)
+[2026-03-19 00:55:34] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-3x
+[2026-03-19 00:55:36] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 00:55:36] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 00:55:36] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:56:09] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:56:09] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:56:09] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 00:56:09] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-3x)
+[2026-03-19 00:56:35] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-q6' (session=happy-q6)
+[2026-03-19 00:56:35] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-q6
+[2026-03-19 00:56:36] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:57:06] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-q6
+[2026-03-19 00:57:07] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:57:07] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:57:08] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-q6)
+[2026-03-19 00:57:14] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-je' (session=happy-je)
+[2026-03-19 00:57:14] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-je
+[2026-03-19 00:57:17] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:59:05] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:59:05] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:59:05] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:59:05] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:59:14] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-r2' (session=happy-r2)
+[2026-03-19 00:59:15] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:59:15] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:59:15] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:59:15] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-r2
+[2026-03-19 00:59:16] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 00:59:16] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 00:59:16] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:59:32] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-r2
+[2026-03-19 00:59:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:59:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 00:59:33] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 00:59:33] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-r2)
+[2026-03-19 00:59:33] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-cn' (session=happy-cn)
+[2026-03-19 00:59:33] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-cn
+[2026-03-19 00:59:36] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 00:59:50] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 00:59:50] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 00:59:50] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 00:59:50] INFO     trango_agent                        Agent ready.
+[2026-03-19 00:59:56] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-1l' (session=happy-1l)
+[2026-03-19 00:59:57] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 00:59:57] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 00:59:57] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 00:59:57] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-1l
+[2026-03-19 00:59:58] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 00:59:58] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 00:59:58] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:02:24] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 01:02:24] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 01:02:24] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 01:02:24] INFO     trango_agent                        Agent ready.
+[2026-03-19 01:02:48] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 01:02:48] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 01:02:48] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 01:02:48] INFO     trango_agent                        Agent ready.
+[2026-03-19 01:02:55] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-4i' (session=happy-4i)
+[2026-03-19 01:02:56] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 01:02:56] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 01:02:56] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 01:02:56] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-4i
+[2026-03-19 01:02:58] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 01:02:58] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 01:02:58] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:03:03] INFO     trango_agent.pipecat                First participant joined to room trango-happy-4i
+[2026-03-19 01:04:27] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-4i
+[2026-03-19 01:04:28] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-pj' (session=happy-pj)
+[2026-03-19 01:04:28] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-pj
+[2026-03-19 01:04:28] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:04:29] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 01:04:29] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-4i)
+[2026-03-19 01:04:29] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:04:33] INFO     trango_agent.pipecat                First participant joined to room trango-happy-pj
+[2026-03-19 01:05:30] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-id' (session=happy-id)
+[2026-03-19 01:05:30] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-id
+[2026-03-19 01:05:31] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:05:32] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-pj
+[2026-03-19 01:05:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:05:32] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:05:33] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 01:05:33] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-pj)
+[2026-03-19 01:05:34] INFO     trango_agent.pipecat                First participant joined to room trango-happy-id
+[2026-03-19 01:06:46] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-id
+[2026-03-19 01:06:46] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-zc' (session=happy-zc)
+[2026-03-19 01:06:46] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-zc
+[2026-03-19 01:06:46] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:06:46] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:06:47] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:06:47] INFO     livekit                             livekit::room:1128:livekit::room - disconnected from room with reason: ClientInitiated
+[2026-03-19 01:06:47] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-id)
+[2026-03-19 01:06:50] INFO     trango_agent.pipecat                First participant joined to room trango-happy-zc
+[2026-03-19 01:07:14] INFO     trango_agent.sessions               New session: happy-zc
+[2026-03-19 01:07:15] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:07:15] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 01:07:15] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:07:15] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 01:07:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:07:25] INFO     trango_agent                        [happy-zc] State: greeting → discovery
+[2026-03-19 01:07:29] INFO     trango_agent.agent                  [happy-zc] discovery | score=0.00 | temp=cold
+[2026-03-19 01:09:01] INFO     trango_agent.agent                  [happy-zc] discovery | score=0.00 | temp=cold
+[2026-03-19 01:09:29] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-zc
+[2026-03-19 01:09:29] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:09:29] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:09:30] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-zc)
+[2026-03-19 01:11:24] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 01:11:24] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 01:11:24] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 01:11:24] INFO     trango_agent                        Agent ready.
+[2026-03-19 01:11:38] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-sv' (session=happy-sv)
+[2026-03-19 01:11:38] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 01:11:38] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 01:11:38] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 01:11:38] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-sv
+[2026-03-19 01:11:43] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 01:11:43] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 01:11:43] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:11:47] INFO     trango_agent.pipecat                First participant joined to room trango-happy-sv
+[2026-03-19 01:14:48] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 01:14:48] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 01:14:48] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 01:14:48] INFO     trango_agent                        Agent ready.
+[2026-03-19 01:30:50] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-3y' (session=happy-3y)
+[2026-03-19 01:30:50] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 01:30:51] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 01:30:51] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 01:30:51] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-3y
+[2026-03-19 01:30:53] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 01:30:53] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 01:30:53] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:30:58] INFO     trango_agent.pipecat                First participant joined to room trango-happy-3y
+[2026-03-19 01:31:13] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 01:31:13] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 01:31:13] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 01:31:13] INFO     trango_agent                        Agent ready.
+[2026-03-19 01:31:21] INFO     trango_agent.pipecat                Starting Pipecat agent in room 'trango-happy-95' (session=happy-95)
+[2026-03-19 01:31:21] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 01:31:21] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 01:31:21] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 01:31:21] INFO     trango_agent.pipecat                SalesAgentProcessor initialized for session happy-95
+[2026-03-19 01:31:24] INFO     livekit                             livekit_ffi::server:133:livekit_ffi::server - initializing ffi server v0.12.1
+[2026-03-19 01:31:24] INFO     livekit                             livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.1
+[2026-03-19 01:31:24] INFO     livekit                             livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://ai-sales-agent-gkqrpar4.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.17.6&access_token=...
+[2026-03-19 01:31:27] INFO     trango_agent.pipecat                First participant joined to room trango-happy-95
+[2026-03-19 01:31:44] INFO     trango_agent.sessions               New session: happy-95
+[2026-03-19 01:31:44] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:31:44] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 01:31:44] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:31:44] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 01:31:52] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 01:31:52] INFO     trango_agent                        [happy-95] State: greeting → discovery
+[2026-03-19 01:32:04] INFO     trango_agent.agent                  [happy-95] discovery | score=0.00 | temp=cold
+[2026-03-19 01:32:46] INFO     trango_agent.pipecat                Participant disconnected from room trango-happy-95
+[2026-03-19 01:32:46] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:32:46] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:32:47] INFO     trango_agent.pipecat                First participant joined to room trango-happy-95
+[2026-03-19 01:32:48] INFO     trango_agent.pipecat                Pipecat pipeline ended (session=happy-95)
+[2026-03-19 01:47:45] ERROR    websockets.client                   data transfer failed
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 953, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1023, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1098, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1155, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/websockets/legacy/framing.py", line 70, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/streams.py", line 750, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/streams.py", line 543, in _wait_for_data
+    await self._waiter
+OSError: [Errno 49] Can't assign requested address
+[2026-03-19 01:47:49] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 01:47:49] ERROR    deepgram.clients.common.v1.abstract_async_websocket tasks cancelled error: 
+[2026-03-19 02:02:04] INFO     trango_agent.sessions               Cleaned up 1 expired sessions
+[2026-03-19 18:18:26] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:18:26] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:18:26] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:18:26] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:18:58] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:19:08] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:19:08] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:19:08] INFO     trango_agent.sessions               New session: sess-0sz
+[2026-03-19 18:19:08] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:19:08] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:19:08] INFO     trango_agent                        WS connected: sess-0sz
+[2026-03-19 18:19:08] INFO     trango_agent                        WS disconnected: sess-0sz
+[2026-03-19 18:19:35] INFO     trango_agent                        WS connected: sess-0sz
+[2026-03-19 18:19:55] INFO     trango_agent                        WS disconnected: sess-0sz
+[2026-03-19 18:19:59] INFO     trango_agent                        Shutting down.
+[2026-03-19 18:20:00] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:20:00] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:20:00] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:20:00] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:23:35] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:23:36] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:23:36] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:23:36] INFO     trango_agent.sessions               New session: sess-jgz
+[2026-03-19 18:23:36] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:23:36] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:23:36] INFO     trango_agent                        WS connected: sess-jgz
+[2026-03-19 18:23:49] ERROR    deepgram.clients.listen.v1.rest.client Unknown transcription source type
+[2026-03-19 18:23:55] INFO     trango_agent                        WS disconnected: sess-jgz
+[2026-03-19 18:23:56] INFO     trango_agent                        WS connected: sess-jgz
+[2026-03-19 18:24:00] ERROR    deepgram.clients.listen.v1.rest.client Unknown transcription source type
+[2026-03-19 18:25:45] INFO     trango_agent                        WS disconnected: sess-jgz
+[2026-03-19 18:25:45] INFO     trango_agent                        Shutting down.
+[2026-03-19 18:25:47] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:25:47] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:25:47] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:25:47] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:26:16] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:26:16] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:26:16] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:26:16] INFO     trango_agent.sessions               New session: sess-4qh
+[2026-03-19 18:26:16] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:26:16] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:26:16] INFO     trango_agent                        WS connected: sess-4qh
+[2026-03-19 18:27:08] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:27:08] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 18:27:08] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:27:08] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 18:27:16] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:27:17] INFO     trango_agent                        [sess-4qh] State: greeting → discovery
+[2026-03-19 18:31:55] INFO     trango_agent                        WS disconnected: sess-4qh
+[2026-03-19 18:31:55] INFO     trango_agent.agent                  [sess-4qh] Extracting and saving lead...
+[2026-03-19 18:31:55] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:31:56] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:31:56] INFO     trango_agent.leads                  Lead written: TT-60CAF5E1 | cold | total_rows=1 | data/leads.xlsx
+[2026-03-19 18:31:56] INFO     trango_agent.agent                  [sess-4qh] Lead saved: TT-60CAF5E1 (cold, score=0.00)
+[2026-03-19 18:31:56] ERROR    asyncio                             Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<websocket_voice.<locals>.stream_tts() done, defined at /Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py:375> exception=AttributeError("'TTS' object has no attribute 'bytes'")>
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 377, in stream_tts
+    async for chunk in tts.stream_synthesize(response_text, ih.stop_event):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 220, in stream_synthesize
+    raise chunk
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 190, in _stream_thread
+    for chunk in self._client.tts.bytes(
+                 ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TTS' object has no attribute 'bytes'
+[2026-03-19 18:31:56] INFO     trango_agent                        Shutting down.
+[2026-03-19 18:32:00] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:32:00] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:32:00] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:32:00] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:32:53] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:32:53] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:32:53] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:32:53] INFO     trango_agent.sessions               New session: sess-w2f
+[2026-03-19 18:32:53] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:32:53] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:32:53] INFO     trango_agent                        WS connected: sess-w2f
+[2026-03-19 18:33:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:33:22] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 18:33:22] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:33:22] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 18:33:27] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:33:28] INFO     trango_agent                        [sess-w2f] State: greeting → discovery
+[2026-03-19 18:33:33] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-19 18:35:17] INFO     trango_agent                        WS disconnected: sess-w2f
+[2026-03-19 18:35:17] INFO     trango_agent.agent                  [sess-w2f] Extracting and saving lead...
+[2026-03-19 18:35:18] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:35:18] INFO     trango_agent.sessions               New session: sess-x1s
+[2026-03-19 18:35:18] INFO     trango_agent                        WS connected: sess-x1s
+[2026-03-19 18:35:19] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:35:19] INFO     trango_agent.leads                  Lead written: TT-D7084A0E | cold | total_rows=2 | data/leads.xlsx
+[2026-03-19 18:35:19] INFO     trango_agent.agent                  [sess-w2f] Lead saved: TT-D7084A0E (cold, score=0.00)
+[2026-03-19 18:35:23] INFO     trango_agent                        [sess-x1s] State: greeting → discovery
+[2026-03-19 18:35:30] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-19 18:35:55] INFO     trango_agent                        WS disconnected: sess-x1s
+[2026-03-19 18:35:55] INFO     trango_agent.agent                  [sess-x1s] Extracting and saving lead...
+[2026-03-19 18:35:55] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:35:55] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:35:56] INFO     trango_agent.leads                  Lead written: TT-FFA80D4C | cold | total_rows=3 | data/leads.xlsx
+[2026-03-19 18:35:56] INFO     trango_agent.agent                  [sess-x1s] Lead saved: TT-FFA80D4C (cold, score=0.00)
+[2026-03-19 18:36:03] INFO     trango_agent                        Shutting down.
+[2026-03-19 18:36:07] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:36:07] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:36:07] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:36:07] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:36:33] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:36:33] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:36:33] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:36:33] INFO     trango_agent.sessions               New session: sess-voc
+[2026-03-19 18:36:33] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:36:33] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:36:33] INFO     trango_agent                        WS connected: sess-voc
+[2026-03-19 18:37:01] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:37:01] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 18:37:01] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:37:01] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 18:37:03] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:37:03] INFO     trango_agent                        [sess-voc] State: greeting → discovery
+[2026-03-19 18:37:11] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-19 18:41:18] INFO     trango_agent                        WS disconnected: sess-voc
+[2026-03-19 18:41:18] INFO     trango_agent.agent                  [sess-voc] Extracting and saving lead...
+[2026-03-19 18:41:18] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:41:19] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 18:41:19] INFO     trango_agent.leads                  Lead written: TT-5A4A0BF8 | cold | total_rows=4 | data/leads.xlsx
+[2026-03-19 18:41:19] INFO     trango_agent.agent                  [sess-voc] Lead saved: TT-5A4A0BF8 (cold, score=0.00)
+[2026-03-19 18:41:19] INFO     trango_agent                        Shutting down.
+[2026-03-19 18:41:24] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 18:41:24] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 18:41:24] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 18:41:24] INFO     trango_agent                        Agent ready.
+[2026-03-19 18:41:43] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 18:41:43] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 18:41:43] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 18:41:43] INFO     trango_agent.sessions               New session: sess-xvm
+[2026-03-19 18:41:43] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 18:41:43] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 18:41:43] INFO     trango_agent                        WS connected: sess-xvm
+[2026-03-19 18:42:16] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:42:16] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 18:42:16] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:42:16] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 18:42:23] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 18:42:24] INFO     trango_agent                        [sess-xvm] State: greeting → discovery
+[2026-03-19 19:00:38] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 19:00:38] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 19:00:38] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 19:00:38] INFO     trango_agent                        Agent ready.
+[2026-03-19 19:00:43] INFO     trango_agent                        Shutting down.
+[2026-03-19 19:03:03] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 19:03:03] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 19:03:03] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 19:03:03] INFO     trango_agent                        Agent ready.
+[2026-03-19 19:04:13] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 19:04:14] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 19:04:14] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 19:04:14] INFO     trango_agent.sessions               New session: sess-hly
+[2026-03-19 19:04:14] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 19:04:14] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 19:04:14] INFO     trango_agent                        WS connected: sess-hly
+[2026-03-19 19:04:21] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:04:21] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 19:04:21] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:04:21] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 19:04:31] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:04:32] INFO     trango_agent                        [sess-hly] State: greeting → discovery
+[2026-03-19 19:04:44] INFO     trango_agent                        [sess-hly] Barge-in: audio received while speaking
+[2026-03-19 19:04:44] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-19 19:04:46] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:05:12] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:05:30] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:05:38] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+[2026-03-19 19:06:36] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:07:20] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:07:33] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:08:05] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:08:12] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+[2026-03-19 19:08:28] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:10:16] INFO     trango_agent.sessions               New session: sess-xm3
+[2026-03-19 19:10:16] INFO     trango_agent                        WS connected: sess-xm3
+[2026-03-19 19:10:57] INFO     trango_agent                        WS disconnected: sess-hly
+[2026-03-19 19:10:57] INFO     trango_agent.agent                  [sess-hly] Extracting and saving lead...
+[2026-03-19 19:10:57] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:10:58] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:10:58] INFO     trango_agent.leads                  Lead written: TT-C4468BAE | cold | total_rows=5 | data/leads.xlsx
+[2026-03-19 19:10:58] INFO     trango_agent.agent                  [sess-hly] Lead saved: TT-C4468BAE (cold, score=0.00)
+[2026-03-19 19:11:08] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    cancelled = False
+                    ^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    # Detect container format from magic bytes
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    if audio_bytes[:4] == b'\x1aE\xdf\xa3':
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+[2026-03-19 19:11:12] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    cancelled = False
+                    ^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    # Detect container format from magic bytes
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    if audio_bytes[:4] == b'\x1aE\xdf\xa3':
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+[2026-03-19 19:11:48] INFO     trango_agent.sessions               New session: sess-nh2
+[2026-03-19 19:11:48] INFO     trango_agent                        WS connected: sess-nh2
+[2026-03-19 19:11:54] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    cancelled = False
+                    ^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    # Detect container format from magic bytes
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    if audio_bytes[:4] == b'\x1aE\xdf\xa3':
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: failed to process audio: corrupt or unsupported data (Status: 400)
+[2026-03-19 19:12:19] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 331, in _process_speech
+    cancelled = False
+                    ^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 68, in transcribe
+    # Detect container format from magic bytes
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 70, in <lambda>
+    if audio_bytes[:4] == b'\x1aE\xdf\xa3':
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:12:34] INFO     trango_agent                        WS disconnected: sess-nh2
+[2026-03-19 19:12:59] INFO     trango_agent                        WS disconnected: sess-xm3
+[2026-03-19 19:12:59] INFO     trango_agent                        Shutting down.
+[2026-03-19 19:13:05] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 19:13:05] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 19:13:05] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 19:13:05] INFO     trango_agent                        Agent ready.
+[2026-03-19 19:13:08] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 19:13:09] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 19:13:09] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 19:13:09] INFO     trango_agent.sessions               New session: sess-xm3
+[2026-03-19 19:13:09] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 19:13:09] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 19:13:09] INFO     trango_agent                        WS connected: sess-xm3
+[2026-03-19 19:13:52] INFO     trango_agent.sessions               New session: sess-jjm
+[2026-03-19 19:13:52] INFO     trango_agent                        WS connected: sess-jjm
+[2026-03-19 19:13:58] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:13:58] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 19:13:58] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:13:58] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 19:14:10] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:14:10] INFO     trango_agent                        [sess-jjm] State: greeting → discovery
+[2026-03-19 19:14:51] ERROR    trango_agent                        STT failed: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 227, in _handle_request
+    response.raise_for_status()
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '400 Bad Request' for url 'https://api.deepgram.com/v1/listen?language=en&model=nova-2&punctuate=true&smart_format=true'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 338, in _process_speech
+    user_text = await stt.transcribe(audio_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 80, in transcribe
+    response = await loop.run_in_executor(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.15/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/voice/voice_layer.py", line 82, in <lambda>
+    lambda: self._client.listen.rest.v("1").transcribe_file(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/listen/v1/rest/client.py", line 260, in transcribe_file
+    result = self.post(
+             ^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 123, in post
+    return self._handle_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/deepgram/clients/common/v1/abstract_sync_rest.py", line 242, in _handle_request
+    raise DeepgramApiError(
+deepgram.clients.common.v1.errors.DeepgramApiError: DeepgramApiError: Bad Request: Invalid data received. (Status: 400)
+[2026-03-19 19:22:15] INFO     trango_agent                        WS disconnected: sess-jjm
+[2026-03-19 19:22:15] INFO     trango_agent.agent                  [sess-jjm] Extracting and saving lead...
+[2026-03-19 19:22:16] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:22:16] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:22:16] INFO     trango_agent.leads                  Lead written: TT-A3541FB5 | cold | total_rows=6 | data/leads.xlsx
+[2026-03-19 19:22:16] INFO     trango_agent.agent                  [sess-jjm] Lead saved: TT-A3541FB5 (cold, score=0.00)
+[2026-03-19 19:27:41] INFO     trango_agent                        WS disconnected: sess-xm3
+[2026-03-19 19:27:41] INFO     trango_agent                        Shutting down.
+[2026-03-19 19:27:46] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 19:27:46] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 19:27:46] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 19:27:46] INFO     trango_agent                        Agent ready.
+[2026-03-19 19:27:47] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-19 19:27:48] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-1.5-flash
+[2026-03-19 19:27:48] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-19 19:27:48] INFO     trango_agent.sessions               New session: sess-xm3
+[2026-03-19 19:27:48] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-19 19:27:48] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-19 19:27:48] INFO     trango_agent                        WS connected: sess-xm3
+[2026-03-19 19:27:54] INFO     trango_agent                        WS disconnected: sess-xm3
+[2026-03-19 19:27:56] INFO     trango_agent.sessions               New session: sess-4is
+[2026-03-19 19:27:56] INFO     trango_agent                        WS connected: sess-4is
+[2026-03-19 19:28:00] INFO     trango_agent                        [sess-4is] STT: 68971 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:28:00] INFO     trango_agent.voice                  STT: 68971 bytes, mimetype=audio/webm
+[2026-03-19 19:28:05] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:28:05] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-19 19:28:05] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:28:05] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-19 19:28:13] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-19 19:28:14] INFO     trango_agent                        [sess-4is] State: greeting → discovery
+[2026-03-19 19:28:49] INFO     trango_agent                        [sess-4is] Explicit interrupt received
+[2026-03-19 19:28:49] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-19 19:28:55] INFO     trango_agent                        [sess-4is] STT: 97065 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:28:55] INFO     trango_agent.voice                  STT: 97065 bytes, mimetype=audio/webm
+[2026-03-19 19:29:41] INFO     trango_agent                        [sess-4is] STT: 750309 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:29:41] INFO     trango_agent.voice                  STT: 750309 bytes, mimetype=audio/webm
+[2026-03-19 19:30:43] INFO     trango_agent                        [sess-4is] STT: 988729 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:30:43] INFO     trango_agent.voice                  STT: 988729 bytes, mimetype=audio/webm
+[2026-03-19 19:31:29] INFO     trango_agent                        [sess-4is] STT: 741583 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:31:29] INFO     trango_agent.voice                  STT: 741583 bytes, mimetype=audio/webm
+[2026-03-19 19:31:33] INFO     trango_agent                        [sess-4is] State: discovery → qualification
+[2026-03-19 19:32:23] INFO     trango_agent                        [sess-4is] STT: 874373 bytes, mime=audio/webm;codecs=opus
+[2026-03-19 19:32:23] INFO     trango_agent.voice                  STT: 874373 bytes, mimetype=audio/webm
+[2026-03-19 19:32:27] INFO     trango_agent                        [sess-4is] State: qualification → pricing_discussion
+[2026-03-19 19:32:28] ERROR    trango_agent                        LLM stream error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 149, in error_remapped_callable
+    return _StreamingResponseIterator(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 71, in __init__
+    self._stored_first_result = next(self._wrapped)
+                                ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/grpc/_channel.py", line 538, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/grpc/_channel.py", line 956, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.", grpc_status:5}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/api/routes.py", line 360, in _process_text
+    async for token in agent.stream_response(
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/agents/sales_agent.py", line 238, in stream_response
+    async for token in self._llm.stream_chat(
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/agents/llm_provider.py", line 388, in stream_chat
+    async for token in provider.stream_chat(
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/agents/llm_provider.py", line 325, in stream_chat
+    raise token
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/app/agents/llm_provider.py", line 307, in _stream_thread
+    for chunk in model.generate_content(contents, stream=True):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/generativeai/generative_models.py", line 325, in generate_content
+    iterator = self._client.stream_generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 1134, in stream_generate_content
+    response = rpc(
+               ^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/gapic_v1/method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/retry/retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammadhaseeb/Downloads/trango_ai_agent/.venv/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 153, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:33:50] INFO     trango_agent.agent                  [sess-4is] Extracting and saving lead...
+[2026-03-19 19:33:50] WARNING  trango_agent.agent                  Lead extraction parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:33:51] WARNING  trango_agent.agent                  Scoring parse error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-19 19:33:51] INFO     trango_agent.leads                  Lead written: TT-87A0CEC2 | cold | total_rows=7 | data/leads.xlsx
+[2026-03-19 19:33:51] INFO     trango_agent.agent                  [sess-4is] Lead saved: TT-87A0CEC2 (cold, score=0.16)
+[2026-03-19 19:33:51] INFO     trango_agent.sessions               Session closed: sess-4is
+[2026-03-19 19:55:22] INFO     trango_agent                        Shutting down.
+[2026-03-19 19:55:27] INFO     trango_agent                        Starting Trango Tech AI Sales Agent...
+[2026-03-19 19:55:27] INFO     trango_agent.rag.indexer            Knowledge base is up to date (version 20260318_075456). Skipping re-index.
+[2026-03-19 19:55:27] INFO     trango_agent.rag.indexer            Use --force to override.
+[2026-03-19 19:55:27] INFO     trango_agent                        Agent ready.
+[2026-03-21 14:47:54] INFO     trango_agent.llm                    Ollama LLM ready — model: llama3.1:8b @ http://localhost:11434
+[2026-03-21 14:47:55] INFO     trango_agent.llm                    Gemini LLM ready — model: gemini-2.5-flash
+[2026-03-21 14:47:55] INFO     trango_agent.llm                    DualRoutingLLM ready — Ollama (discovery/qualification) + Gemini (recommendation/closing)
+[2026-03-21 14:47:55] INFO     trango_agent.sessions               New session: sess-tpb
+[2026-03-21 14:47:55] INFO     trango_agent.voice                  Deepgram STT ready — model: nova-2
+[2026-03-21 14:47:55] INFO     trango_agent.voice                  Cartesia TTS ready — voice: a0e99841-438c-4a64-b679-ae501e7d6091, model: sonic-english
+[2026-03-21 14:47:55] INFO     trango_agent                        WS connected: sess-tpb
+[2026-03-21 14:48:13] INFO     trango_agent                        [sess-tpb] STT: 298665 bytes, mime=audio/webm;codecs=opus
+[2026-03-21 14:48:13] INFO     trango_agent.voice                  STT: 298665 bytes, mimetype=audio/webm
+[2026-03-21 14:48:19] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-21 14:48:19] INFO     trango_agent.rag.vector_store       Using Ollama embedding function for ChromaDB (llama3.1:8b)
+[2026-03-21 14:48:19] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-21 14:48:19] INFO     trango_agent.rag.vector_store       ChromaDB ready — collection 'trango_knowledge' (151 docs)
+[2026-03-21 14:48:26] ERROR    chromadb.telemetry.product.posthog  Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2026-03-21 14:48:27] INFO     trango_agent                        [sess-tpb] State: greeting → discovery
+[2026-03-21 14:48:40] INFO     trango_agent                        [sess-tpb] Explicit interrupt received
+[2026-03-21 14:48:40] INFO     trango_agent.voice                  Barge-in detected — stopping TTS
+[2026-03-21 14:48:55] INFO     trango_agent.agent                  [sess-tpb] Extracting and saving lead...
+[2026-03-21 14:49:00] WARNING  trango_agent.agent                  Scoring parse error: Unterminated string starting at: line 2 column 3 (char 4)
+[2026-03-21 14:49:00] INFO     trango_agent.leads                  Lead written: TT-E68D7742 | cold | total_rows=8 | data/leads.xlsx
+[2026-03-21 14:49:00] INFO     trango_agent.agent                  [sess-tpb] Lead saved: TT-E68D7742 (cold, score=0.00)
+[2026-03-21 14:49:00] INFO     trango_agent.sessions               Session closed: sess-tpb
